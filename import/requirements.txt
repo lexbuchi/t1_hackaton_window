@@ -1,0 +1,11 @@
+pandas==1.5.3  # Adjust version as needed
+seaborn  # Adjust version as needed
+tiktoken
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+pydantic
+jinja2
+openai
+neo4j
